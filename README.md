@@ -163,6 +163,7 @@ CALL return_book(1);  -- loan_id=1 (auto-calculates and inserts fine if late)
 ## Author
 
 Built as a university database systems project.  
+Okwembah Ray Jerome 
 Feel free to fork, extend, or use as a learning reference.
 
 ---
